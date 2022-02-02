@@ -4,8 +4,16 @@
 </br>
 주사위 파일.
 기본(물음표)
-*[](Dice/diceBase)
+</br>
+![](Dice/diceBase)
 1~6까지의 수
+</br>
+![](Dice/diceOne)
+![](Dice/diceTwo)
+![](Dice/diceThree)
+![](Dice/diceFour)
+![](Dice/diceFive)
+![](Dice/diceSix)
 
 ===========================
 
