@@ -5,15 +5,15 @@
 주사위 파일.
 기본(물음표)
 </br>
-![](Dice/diceBase)
+![0](Dice/diceBase)
 1~6까지의 수
 </br>
-![](Dice/diceOne)
-![](Dice/diceTwo)
-![](Dice/diceThree)
-![](Dice/diceFour)
-![](Dice/diceFive)
-![](Dice/diceSix)
+![1](Dice/diceOne)
+![2](Dice/diceTwo)
+![3](Dice/diceThree)
+![4](Dice/diceFour)
+![5](Dice/diceFive)
+![6](Dice/diceSix)
 
 ===========================
 
