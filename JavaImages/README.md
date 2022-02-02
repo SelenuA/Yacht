@@ -5,7 +5,7 @@
 주사위 파일.
 기본(물음표)
 </br>
-![](Dice/diceBase.png)
+![0](Dice/diceBase.png)
 1~6까지의 수
 </br>
 ![](Dice/diceOne.png)
