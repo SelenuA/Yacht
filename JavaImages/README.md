@@ -5,15 +5,15 @@
 주사위 파일.
 기본(물음표)
 </br>
-![0](Dice/diceBase.png)
+![Base](Dice/diceBase.png)
 1~6까지의 수
 </br>
-![](Dice/diceOne.png)
-![](Dice/diceTwo.png)
-![](Dice/diceThree.png)
-![](Dice/diceFour.png)
-![](Dice/diceFive.png)
-![](Dice/diceSix.png)
+![One](Dice/diceOne.png)
+![Two](Dice/diceTwo.png)
+![Three](Dice/diceThree.png)
+![Four](Dice/diceFour.png)
+![Five](Dice/diceFive.png)
+![Six](Dice/diceSix.png)
 
 ===========================
 
@@ -22,6 +22,6 @@
 주사위를 굴리지 못하도록 막아놓는 잠금 아이콘.
 잠금(굴리지 못함)
 </br>
-![](Lock/locked.png)
+![Locked](Lock/locked.png)
 잠금 해제(굴릴 수 있음)
-![](Lock/unlocked.png)
+![Unlocked](Lock/unlocked.png)
