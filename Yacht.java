@@ -48,7 +48,7 @@ public class Yacht extends JFrame {
 	JLabel winnerInfo = new JLabel();
 
 	Yacht() {
-		setTitle("¾ßÃß");
+		setTitle("ì•¼ì¶”");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		contentPane = getContentPane();
 		JPanel mainPanel = new JPanel(new GridLayout(2, 1, 8, 24));
@@ -317,7 +317,7 @@ public class Yacht extends JFrame {
 					} else if (p1.isLgStraight(dice)) {
 						str += " (Large Straight)";
 					} else if (p1.isSmStraight(dice)) {
-						str += " (Small Striaght)";
+						str += " (Small Straight)";
 					}
 					consoleInfo.append(p1.getUsername() + " : " + str + "\n");
 					diceInfo.setText(str);
@@ -337,7 +337,7 @@ public class Yacht extends JFrame {
 					} else if (p2.isLgStraight(dice)) {
 						str += " (Large Straight)";
 					} else if (p2.isSmStraight(dice)) {
-						str += " (Small Striaght)";
+						str += " (Small Straight)";
 					}
 					consoleInfo.append(p2.getUsername() + " : " + str + "\n");
 					diceInfo.setText(str);
